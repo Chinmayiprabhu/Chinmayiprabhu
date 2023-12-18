@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Chinmayiprabhu.github.io/al-folio/sitemap.xml
+Sitemap: https://Chinmayiprabhu.github.io/sitemap.xml
